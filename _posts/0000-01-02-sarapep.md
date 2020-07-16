@@ -1,0 +1,6 @@
+---
+ layout : titolo diapositiva
+ : " Benvenuti nella nostra seconda diapositiva! "
+---
+Il tuo testo 
+Usa la freccia sinistra per tornare indietro!
